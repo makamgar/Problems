@@ -17,6 +17,3 @@ Launch the GCD and LCM Calculator by running the Python script.
 Enter the positive integers in the input fields.
 Click the "Calculate" button to perform the calculation.
 The calculated GCD and LCM will be displayed on the screen.
-
-# License
-The GCD and LCM Calculator is open-source software released under the MIT License.
